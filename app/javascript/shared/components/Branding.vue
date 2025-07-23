@@ -45,6 +45,7 @@ export default {
 </script>
 
 <template>
+    <div style="height:20px"></div>
   <!--
   <div
     v-if="globalConfig.brandName && !disableBranding"
